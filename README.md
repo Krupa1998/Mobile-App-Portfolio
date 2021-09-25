@@ -6,4 +6,4 @@ Here you can find overview of my future app with its planning and design ideas f
 
 
 ![Brainstorming](./images/brainstorming.jpg)
-<img src="brainstorming.jpg" alt="Brainstorming" width="100"/>
+<img src="brainstorming.jpg" alt="Brainstorming" style="width:200px;"/>
