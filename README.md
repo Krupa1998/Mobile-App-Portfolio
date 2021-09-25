@@ -6,3 +6,4 @@ Here you can find overview of my future app with its planning and design ideas f
 
 
 ![Brainstorming](./images/brainstorming.JPG)
+
