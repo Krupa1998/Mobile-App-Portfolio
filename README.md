@@ -13,3 +13,13 @@ I am making this application called PharmaSea which will be about management of 
 
 ## Version Control
 I am going to use this public repository in GitHub to track my commits made throughout the development of this application with the teaching faculty being collaborator. Since, I am currently in the **inception** phase, you can visit my *miro* site that is running live [here](https://miro.com/app/board/o9J_lwDvtnc=/).
+
+## UML Diagrams
+
+### Use Case for PharmaSea App
+![Use Case for Budgeting](./images/use_case.png)
+
+## Activity Diagrams
+
+### Activity Diagram for PharmaSea App
+![Use Case for Budgeting](./images/use_case.png)
