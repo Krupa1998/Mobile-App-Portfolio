@@ -17,9 +17,9 @@ I am going to use this public repository in GitHub to track my commits made thro
 ## UML Diagrams
 
 ### Use Case for PharmaSea App
-![Use Case for PharmaSea](./Images/PharmaSea Usecase Diagram.jpeg)
+![Use Case for PharmaSea](./Images/usecase_diagram.jpeg)
 
 ## Activity Diagrams
 
 ### Activity Diagram for PharmaSea App
-![Use Case for PharmaSea](./Images/PharmaSea Activity Diagram.jpeg)
+![Use Case for PharmaSea](./Images/activity_diagram.jpeg)
