@@ -5,4 +5,4 @@
 Here you can find overview of my future app with its planning and design ideas for Mobile App Portfolio.
 
 
-![Brainstorming](./images/Miro_Board.png)
+![Brainstorming](./images/brainstorming.JPG)
