@@ -5,4 +5,4 @@
 Here you can find overview of my future app with its planning and design ideas for Mobile App Portfolio.
 
 
-![Brainstorming](./images/brainstorming.JPG =150x50)
+![Brainstorming](./images/brainstorming.JPG)
